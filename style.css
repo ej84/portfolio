@@ -103,7 +103,7 @@ p{
 }
 .resumetitle{
     margin-top: 15vh; color: #F2D399;font-family: 'Lora', serif; font-weight: bold;
-    font-size: 5vh; margin-bottom: 5vh;
+    font-size: 5vh; margin-bottom: 5vh; text-align: center;
 }
 
 .button1{
