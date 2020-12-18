@@ -41,9 +41,11 @@ body { overflow-x : hidden}
 #aboutme{
     height: 100vh;
     background-color: #F2D399;
+    background-size: cover;
 }
 #resume{
     background-color: #385773;
+    background-size: cover;
 }
 .links{
     height: 10vh;
@@ -126,6 +128,7 @@ p{
 #portfolio{
     height: 100vh;
     background-color: #041017;
+    background-size: cover;
 }
 #contact{
     height: 90vh;
