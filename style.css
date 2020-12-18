@@ -11,7 +11,7 @@ body { overflow-x : hidden}
     color: black;
 }
 #logo{
-    height: 3.125rem;
+    height: 5rem;
 }
 .nav-link{
     font-weight: bold;
@@ -27,7 +27,7 @@ body { overflow-x : hidden}
     margin-left: 90px;
 }
 .homepage1{
-    background-image: linear-gradient( rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30) ), url("img/emilia-1.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30) ), url("img/emilia-1.jpg");
     background-size: cover;
     color:white;
     height: 90vh;
