@@ -1,0 +1,173 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Damion&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+html{
+    font-size: 100%;
+}
+body { overflow-x : hidden}
+.navbar-nav a{
+    font-size: 18px;
+    font-family: 'Lora', serif;
+    color: black;
+}
+#logo{
+    height: 3.125rem;
+}
+.nav-link{
+    font-weight: bold;
+}
+.nav-dark,.navbar-nav, .nav-link.active{
+    color: yellow !important;
+    font-weight: bolder !important;
+}
+.nav-dark,.navbar-nav, .nav-link:hover {
+    color: yellow !important;
+}
+.nav-item{
+    margin-left: 90px;
+}
+.homepage1{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30) ), url("img/emilia-1.jpg);
+    background-size: cover;
+    color:white;
+    height: 90vh;
+}
+.part2{
+    font-family: 'Lora', serif;
+    text-align: left;
+    height: 90vh;
+    position: relative;
+}
+#aboutme{
+    height: 100vh;
+    background-color: #F2D399;
+}
+#resume{
+    background-color: #385773;
+}
+.links{
+    height: 10vh;
+    text-align: center;
+}
+.linksection{
+    background-color: #385773;
+    background-size: cover;
+}
+.section2{
+    height: 10vh;
+    color: #ffffff;
+    font-family: 'Damion', cursive;
+}
+h4{
+    font-size: 2vh;
+}
+.link{
+    color: #F2D399;
+    text-align: center
+    
+}
+.link:hover{
+    text-decoration: none;
+    color: #fdfdfd;
+}
+h2{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+}
+p{
+    font-family: 'Lora', serif;
+    line-height: 2rem;
+}
+.button{
+    font-size: 18px;
+    text-decoration: none;
+    color: #000000;
+    border: #9BDAF2 3px solid;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-top:20px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.button:hover{
+    background: #F17C3A;
+    color: #ffff;
+    text-decoration: none;
+}
+.resume{
+    background-color: #faf3e2;
+    height: 100vh;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.5), 0 10px 24px 0 rgba(0, 0, 0, 0.4);
+}
+.resumetitle{
+    margin-top: 15vh; color: #F2D399;font-family: 'Lora', serif; font-weight: bold;
+    font-size: 5vh; margin-bottom: 5vh;
+}
+
+.button1{
+    font-size: 18px;
+    text-decoration: none;
+    color: #ffffff;
+    border: #F17C3A 3px solid;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-top:20px;
+    font-family: 'Lora', serif;
+
+}
+.button1:hover{
+    background: #ffffff;
+    color: #F17C3A;
+    font-weight: bold;
+    text-decoration: none;
+}
+#portfolio{
+    height: 100vh;
+    background-color: #041017;
+}
+#contact{
+    height: 90vh;
+    background-color: #F2D399;
+}
+h4{
+    font-family: 'Lora', serif;
+}
+.card-text{
+    font-family: 'Lora', serif;
+    font-size: 14px;
+}
+.info{
+    font-size: 1.5rem;
+    color: #b7b7b7;
+    font-family: 'Lora', cursive;
+
+}
+.info:hover{
+    color: white;
+}
+.contact:hover{
+    font-size: 1.8rem;
+    text-decoration: none;
+}
+footer{height: 10vh;
+background-color: #000000;
+}
+.foot{
+    font-size: 1.6vh;
+    color: #FFFFFF;
+    font-family: 'Lora', serif;
+    text-align: center;
+    padding-top: 3vh;
+}
+
+.footerimg{
+    width: ;
+    opacity: 70%;
+}
+.footerimg:hover{
+    opacity: 100%;
+    color: white;
+}
+
