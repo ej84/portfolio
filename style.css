@@ -17,11 +17,11 @@ body { overflow-x : hidden}
     font-weight: bold;
 }
 .nav-dark,.navbar-nav, .nav-link.active{
-    color: yellow !important;
+    color: orange !important;
     font-weight: bolder !important;
 }
 .nav-dark,.navbar-nav, .nav-link:hover {
-    color: yellow !important;
+    color:  orange !important;
 }
 .nav-item{
     margin-left: 90px;
